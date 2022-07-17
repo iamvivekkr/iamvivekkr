@@ -7,13 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/vivekku71821375" target="blank"><img src="https://img.shields.io/twitter/follow/vivekku71821375?logo=twitter&style=for-the-badge" alt="vivekku71821375" /></a> </p>
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **many things**
 
-- 👨‍💻 All of my projects are available at [https://iamvivekkr.github.io/vivek-portfolio/](https://iamvivekkr.github.io/vivek-portfolio/)
+- 👨‍💻 Checkout my portfolio [https://iamvivekkr.github.io/vivek-portfolio/](https://iamvivekkr.github.io/vivek-portfolio/)
 
 - 📫 How to reach me **vivekkumar.qu@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11CCkw1BgzA6NHK5krlUAN9oomb-yHChA/view](https://drive.google.com/file/d/11CCkw1BgzA6NHK5krlUAN9oomb-yHChA/view)
+- 👯 I’m looking to collaborate with new projects
+
+- 📌 A Tech enthusiast from India
+
+- ⚡ Fun fact I think sometimes I talk to much😁
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
