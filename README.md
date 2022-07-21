@@ -17,7 +17,7 @@
 
 - 📌 A Tech enthusiast from India
 
-- ⚡ Fun fact I think sometimes I talk to much😁
+- ⚡ Fun fact I think sometimes I talk too much😁
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
