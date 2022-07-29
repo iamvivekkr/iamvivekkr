@@ -34,6 +34,7 @@
   <li>C</li>
   <li>DSA(C++)</li>
   <li>HTML | CSS | Javascript | Bootstrap</li>
+  <li>MongoDb | ExpressJS | ReactJS | NodeJS (MERN)</li>
   <li>PHP | MySQL | Wordpress</li>
   <li>Ethical Hacking | Networking | Linux | CyberLaw</li>
 </ul>
